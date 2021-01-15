@@ -1,0 +1,15 @@
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/bin/Debug/net5.0/testThreadJoinTimeSpan.deps.json
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/bin/Debug/net5.0/testThreadJoinTimeSpan.runtimeconfig.json
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/bin/Debug/net5.0/testThreadJoinTimeSpan.runtimeconfig.dev.json
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/bin/Debug/net5.0/testThreadJoinTimeSpan.dll
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/bin/Debug/net5.0/ref/testThreadJoinTimeSpan.dll
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/bin/Debug/net5.0/testThreadJoinTimeSpan.pdb
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/obj/Debug/net5.0/testThreadJoinTimeSpan.csprojAssemblyReference.cache
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/obj/Debug/net5.0/testThreadJoinTimeSpan.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/obj/Debug/net5.0/testThreadJoinTimeSpan.AssemblyInfoInputs.cache
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/obj/Debug/net5.0/testThreadJoinTimeSpan.AssemblyInfo.cs
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/obj/Debug/net5.0/testThreadJoinTimeSpan.csproj.CoreCompileInputs.cache
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/obj/Debug/net5.0/testThreadJoinTimeSpan.dll
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/obj/Debug/net5.0/ref/testThreadJoinTimeSpan.dll
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/obj/Debug/net5.0/testThreadJoinTimeSpan.pdb
+/Users/liujiangbo/work/projects/testThreadJoinTimeSpan/obj/Debug/net5.0/testThreadJoinTimeSpan.genruntimeconfig.cache
