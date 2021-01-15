@@ -1,0 +1,15 @@
+/Users/liujiangbo/work/projects/testThreadSignal/bin/Debug/net5.0/testThreadSignal.deps.json
+/Users/liujiangbo/work/projects/testThreadSignal/bin/Debug/net5.0/testThreadSignal.runtimeconfig.json
+/Users/liujiangbo/work/projects/testThreadSignal/bin/Debug/net5.0/testThreadSignal.runtimeconfig.dev.json
+/Users/liujiangbo/work/projects/testThreadSignal/bin/Debug/net5.0/testThreadSignal.dll
+/Users/liujiangbo/work/projects/testThreadSignal/bin/Debug/net5.0/ref/testThreadSignal.dll
+/Users/liujiangbo/work/projects/testThreadSignal/bin/Debug/net5.0/testThreadSignal.pdb
+/Users/liujiangbo/work/projects/testThreadSignal/obj/Debug/net5.0/testThreadSignal.csprojAssemblyReference.cache
+/Users/liujiangbo/work/projects/testThreadSignal/obj/Debug/net5.0/testThreadSignal.GeneratedMSBuildEditorConfig.editorconfig
+/Users/liujiangbo/work/projects/testThreadSignal/obj/Debug/net5.0/testThreadSignal.AssemblyInfoInputs.cache
+/Users/liujiangbo/work/projects/testThreadSignal/obj/Debug/net5.0/testThreadSignal.AssemblyInfo.cs
+/Users/liujiangbo/work/projects/testThreadSignal/obj/Debug/net5.0/testThreadSignal.csproj.CoreCompileInputs.cache
+/Users/liujiangbo/work/projects/testThreadSignal/obj/Debug/net5.0/testThreadSignal.dll
+/Users/liujiangbo/work/projects/testThreadSignal/obj/Debug/net5.0/ref/testThreadSignal.dll
+/Users/liujiangbo/work/projects/testThreadSignal/obj/Debug/net5.0/testThreadSignal.pdb
+/Users/liujiangbo/work/projects/testThreadSignal/obj/Debug/net5.0/testThreadSignal.genruntimeconfig.cache
